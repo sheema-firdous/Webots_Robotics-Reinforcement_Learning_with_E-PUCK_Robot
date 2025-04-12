@@ -1,4 +1,4 @@
-# 🤖 Webots Reinforcement Learning Robot (Q-Learning)
+# 🤖 Webots Reinforcement Learning Project employing E-PUCK Robot (Q-Learning)
 
 This project uses **Q-learning** to train a Webots e-puck robot to navigate autonomously to a target while avoiding obstacles. Training and inference are separated into two controller files:
 
