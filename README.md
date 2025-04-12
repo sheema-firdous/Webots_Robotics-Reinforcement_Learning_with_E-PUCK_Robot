@@ -68,3 +68,15 @@ Set the controller to `training.py` to start the learning process.
 training_output_YYYYMMDD_HHMMSS.log
 # and Q-table will be updated in:
 q_table.json
+```
+
+---
+
+## 👩‍💻 Developers Information
+
+Developed by **Sheema Firdous [https://www.linkedin.com/in/sheema-firdous-67b9b8181/]**  
+as part of the **Cognitive Systems and Robotics** module assessment  at **Sheffield Hallam University**
+
+Supervised by [Dr. Samuele Vinanzi](https://www.linkedin.com/in/samuelevinanzi/)
+
+This project demonstrates the practical application of reinforcement learning (Q-learning) in autonomous robotics using Webots and Python.
