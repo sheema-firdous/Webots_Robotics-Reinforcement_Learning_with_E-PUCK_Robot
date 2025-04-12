@@ -1,0 +1,995 @@
+2025-04-09 13:44:33,851 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:45:00,197 | 
+🏁 Target reached at epoch 1!
+2025-04-09 13:45:00,197 | 📍 Final position: x=-0.485, y=0.257
+2025-04-09 13:45:00,197 | 🪜 Steps taken: 60
+2025-04-09 13:45:00,197 | 🎯 Episode total reward: 698.39
+2025-04-09 13:45:00,201 | ✅ New best path saved with length 60!
+2025-04-09 13:45:02,261 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:45:06,493 | 
+🏁 Target reached at epoch 2!
+2025-04-09 13:45:06,493 | 📍 Final position: x=-0.513, y=0.254
+2025-04-09 13:45:06,501 | 🪜 Steps taken: 28
+2025-04-09 13:45:06,507 | 🎯 Episode total reward: 862.14
+2025-04-09 13:45:06,508 | ✅ New best path saved with length 28!
+2025-04-09 13:45:08,531 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:47:08,040 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:47:08,051 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:47:08,057 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:47:09,011 | 
+🏁 Target reached at epoch 3!
+2025-04-09 13:47:09,011 | 📍 Final position: x=-0.491, y=0.348
+2025-04-09 13:47:09,011 | 🪜 Steps taken: 214
+2025-04-09 13:47:09,015 | 🎯 Episode total reward: 22.18
+2025-04-09 13:47:10,771 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:48:28,912 | 
+🏁 Target reached at epoch 4!
+2025-04-09 13:48:28,912 | 📍 Final position: x=-0.528, y=0.278
+2025-04-09 13:48:28,912 | 🪜 Steps taken: 145
+2025-04-09 13:48:28,912 | 🎯 Episode total reward: 287.28
+2025-04-09 13:48:30,562 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:50:00,857 | 
+🏁 Target reached at epoch 5!
+2025-04-09 13:50:00,857 | 📍 Final position: x=-0.492, y=0.255
+2025-04-09 13:50:00,857 | 🪜 Steps taken: 165
+2025-04-09 13:50:00,862 | 🎯 Episode total reward: 187.12
+2025-04-09 13:51:36,542 | 
+🏁 Target reached at epoch 6!
+2025-04-09 13:51:36,542 | 📍 Final position: x=-0.548, y=0.311
+2025-04-09 13:51:36,547 | 🪜 Steps taken: 159
+2025-04-09 13:51:36,547 | 🎯 Episode total reward: 228.54
+2025-04-09 13:51:40,952 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:53:15,602 | 
+🏁 Target reached at epoch 7!
+2025-04-09 13:53:15,607 | 📍 Final position: x=-0.461, y=0.290
+2025-04-09 13:53:15,608 | 🪜 Steps taken: 167
+2025-04-09 13:53:15,610 | 🎯 Episode total reward: 180.66
+2025-04-09 13:53:19,242 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:54:48,537 | 
+🏁 Target reached at epoch 8!
+2025-04-09 13:54:48,537 | 📍 Final position: x=-0.509, y=0.259
+2025-04-09 13:54:48,542 | 🪜 Steps taken: 157
+2025-04-09 13:54:48,542 | 🎯 Episode total reward: 228.04
+2025-04-09 13:55:04,632 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:56:00,962 | 
+🏁 Target reached at epoch 9!
+2025-04-09 13:56:00,962 | 📍 Final position: x=-0.489, y=0.254
+2025-04-09 13:56:00,972 | 🪜 Steps taken: 123
+2025-04-09 13:56:00,972 | 🎯 Episode total reward: 393.90
+2025-04-09 13:58:46,827 | 
+🏁 Target reached at epoch 10!
+2025-04-09 13:58:46,827 | 📍 Final position: x=-0.543, y=0.309
+2025-04-09 13:58:46,832 | 🪜 Steps taken: 559
+2025-04-09 13:58:46,832 | 🎯 Episode total reward: 88.09
+2025-04-09 13:59:27,897 | 🚧 Obstacle detected → turning left.
+2025-04-09 13:59:52,060 | 
+🏁 Target reached at epoch 11!
+2025-04-09 13:59:52,060 | 📍 Final position: x=-0.495, y=0.253
+2025-04-09 13:59:52,062 | 🪜 Steps taken: 258
+2025-04-09 13:59:52,062 | 🎯 Episode total reward: 30.32
+2025-04-09 13:59:54,862 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:00:27,191 | 
+🏁 Target reached at epoch 12!
+2025-04-09 14:00:27,191 | 📍 Final position: x=-0.531, y=0.288
+2025-04-09 14:00:27,192 | 🪜 Steps taken: 142
+2025-04-09 14:00:27,192 | 🎯 Episode total reward: 300.32
+2025-04-09 14:00:28,952 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:01:06,112 | 
+🏁 Target reached at epoch 13!
+2025-04-09 14:01:06,112 | 📍 Final position: x=-0.525, y=0.333
+2025-04-09 14:01:06,112 | 🪜 Steps taken: 155
+2025-04-09 14:01:06,112 | 🎯 Episode total reward: 237.05
+2025-04-09 14:01:13,454 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:02:06,393 | 
+🏁 Target reached at epoch 14!
+2025-04-09 14:02:06,393 | 📍 Final position: x=-0.543, y=0.298
+2025-04-09 14:02:06,393 | 🪜 Steps taken: 234
+2025-04-09 14:02:06,393 | 🎯 Episode total reward: 25.92
+2025-04-09 14:02:48,108 | 
+🏁 Target reached at epoch 15!
+2025-04-09 14:02:48,108 | 📍 Final position: x=-0.489, y=0.283
+2025-04-09 14:02:48,108 | 🪜 Steps taken: 155
+2025-04-09 14:02:48,110 | 🎯 Episode total reward: 247.46
+2025-04-09 14:03:18,992 | 
+🏁 Target reached at epoch 16!
+2025-04-09 14:03:18,992 | 📍 Final position: x=-0.458, y=0.308
+2025-04-09 14:03:18,992 | 🪜 Steps taken: 117
+2025-04-09 14:03:18,992 | 🎯 Episode total reward: 432.79
+2025-04-09 14:03:35,022 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:35,972 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:36,467 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:36,658 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:37,142 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:37,742 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:37,858 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:38,350 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:38,593 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:38,773 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:39,472 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:39,658 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:40,262 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:40,423 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:40,803 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:41,093 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:41,332 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:42,347 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:42,452 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:03:59,818 | 
+🏁 Target reached at epoch 17!
+2025-04-09 14:03:59,823 | 📍 Final position: x=-0.469, y=0.332
+2025-04-09 14:03:59,823 | 🪜 Steps taken: 143
+2025-04-09 14:03:59,823 | 🎯 Episode total reward: 112.19
+2025-04-09 14:04:59,393 | 
+🏁 Target reached at epoch 18!
+2025-04-09 14:04:59,393 | 📍 Final position: x=-0.515, y=0.304
+2025-04-09 14:04:59,393 | 🪜 Steps taken: 225
+2025-04-09 14:04:59,393 | 🎯 Episode total reward: 31.98
+2025-04-09 14:05:30,293 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:05:30,383 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:06:46,293 | 
+🏁 Target reached at epoch 19!
+2025-04-09 14:06:46,293 | 📍 Final position: x=-0.457, y=0.325
+2025-04-09 14:06:46,293 | 🪜 Steps taken: 383
+2025-04-09 14:06:46,293 | 🎯 Episode total reward: 31.02
+2025-04-09 14:07:13,127 | 
+🏁 Target reached at epoch 20!
+2025-04-09 14:07:13,127 | 📍 Final position: x=-0.479, y=0.344
+2025-04-09 14:07:13,127 | 🪜 Steps taken: 102
+2025-04-09 14:07:13,127 | 🎯 Episode total reward: 503.47
+2025-04-09 14:07:28,913 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:07:49,238 | 
+🏁 Target reached at epoch 21!
+2025-04-09 14:07:49,238 | 📍 Final position: x=-0.527, y=0.291
+2025-04-09 14:07:49,238 | 🪜 Steps taken: 138
+2025-04-09 14:07:49,238 | 🎯 Episode total reward: 319.95
+2025-04-09 14:07:57,033 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:08:17,808 | 
+🏁 Target reached at epoch 22!
+2025-04-09 14:08:17,808 | 📍 Final position: x=-0.456, y=0.292
+2025-04-09 14:08:17,808 | 🪜 Steps taken: 105
+2025-04-09 14:08:17,808 | 🎯 Episode total reward: 478.93
+2025-04-09 14:08:22,863 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:08:23,243 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:08:23,563 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:08:23,692 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:08:24,093 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:08:24,273 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:08:24,682 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:08:25,083 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:08:58,373 | 
+🏁 Target reached at epoch 23!
+2025-04-09 14:08:58,373 | 📍 Final position: x=-0.548, y=0.312
+2025-04-09 14:08:58,373 | 🪜 Steps taken: 164
+2025-04-09 14:08:58,373 | 🎯 Episode total reward: 120.15
+2025-04-09 14:09:26,063 | 
+🏁 Target reached at epoch 24!
+2025-04-09 14:09:26,063 | 📍 Final position: x=-0.509, y=0.321
+2025-04-09 14:09:26,063 | 🪜 Steps taken: 109
+2025-04-09 14:09:26,063 | 🎯 Episode total reward: 468.80
+2025-04-09 14:09:42,023 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:09:47,053 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:09:47,193 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:09:53,863 | 
+🏁 Target reached at epoch 25!
+2025-04-09 14:09:53,863 | 📍 Final position: x=-0.503, y=0.325
+2025-04-09 14:09:53,863 | 🪜 Steps taken: 112
+2025-04-09 14:09:53,863 | 🎯 Episode total reward: 425.22
+2025-04-09 14:09:57,023 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:10:09,213 | 
+🏁 Target reached at epoch 26!
+2025-04-09 14:10:09,213 | 📍 Final position: x=-0.489, y=0.256
+2025-04-09 14:10:09,213 | 🪜 Steps taken: 63
+2025-04-09 14:10:09,213 | 🎯 Episode total reward: 683.21
+2025-04-09 14:10:15,783 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:10:15,923 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:10:23,787 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:10:24,913 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:10:25,083 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:10:32,213 | 
+🏁 Target reached at epoch 27!
+2025-04-09 14:10:32,213 | 📍 Final position: x=-0.492, y=0.262
+2025-04-09 14:10:32,213 | 🪜 Steps taken: 95
+2025-04-09 14:10:32,213 | 🎯 Episode total reward: 484.98
+2025-04-09 14:10:46,853 | 
+🏁 Target reached at epoch 28!
+2025-04-09 14:10:46,853 | 📍 Final position: x=-0.503, y=0.263
+2025-04-09 14:10:46,853 | 🪜 Steps taken: 58
+2025-04-09 14:10:46,853 | 🎯 Episode total reward: 717.10
+2025-04-09 14:11:04,983 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:05,813 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:05,983 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:15,034 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:15,118 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:15,563 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:16,013 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:16,193 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:16,603 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:16,793 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:17,203 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:17,363 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:18,523 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:34,163 | 
+🏁 Target reached at epoch 29!
+2025-04-09 14:11:34,173 | 📍 Final position: x=-0.512, y=0.272
+2025-04-09 14:11:34,173 | 🪜 Steps taken: 194
+2025-04-09 14:11:34,173 | 🎯 Episode total reward: -86.15
+2025-04-09 14:11:41,853 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:43,863 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:11:54,413 | 
+🏁 Target reached at epoch 30!
+2025-04-09 14:11:54,413 | 📍 Final position: x=-0.523, y=0.267
+2025-04-09 14:11:54,413 | 🪜 Steps taken: 81
+2025-04-09 14:11:54,413 | 🎯 Episode total reward: 583.31
+2025-04-09 14:12:01,613 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:12:06,523 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:12:06,613 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:12:11,433 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:12:11,735 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:12:11,873 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:12:19,283 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:12:19,623 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:12:22,788 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:12:29,703 | 
+🏁 Target reached at epoch 31!
+2025-04-09 14:12:29,703 | 📍 Final position: x=-0.522, y=0.257
+2025-04-09 14:12:29,703 | 🪜 Steps taken: 145
+2025-04-09 14:12:29,703 | 🎯 Episode total reward: 199.74
+2025-04-09 14:12:39,993 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:12:58,643 | 
+🏁 Target reached at epoch 32!
+2025-04-09 14:12:58,643 | 📍 Final position: x=-0.471, y=0.286
+2025-04-09 14:12:58,653 | 🪜 Steps taken: 120
+2025-04-09 14:12:58,653 | 🎯 Episode total reward: 400.73
+2025-04-09 14:13:03,093 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:13:03,233 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:13:25,343 | 
+🏁 Target reached at epoch 33!
+2025-04-09 14:13:25,343 | 📍 Final position: x=-0.478, y=0.315
+2025-04-09 14:13:25,343 | 🪜 Steps taken: 106
+2025-04-09 14:13:25,343 | 🎯 Episode total reward: 461.27
+2025-04-09 14:13:48,703 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:13:49,703 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:13:50,033 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:13:50,463 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:13:51,428 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:13:51,793 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:13:53,328 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:13:53,553 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:14:23,063 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:15:17,393 | 
+🏁 Target reached at epoch 34!
+2025-04-09 14:15:17,393 | 📍 Final position: x=-0.497, y=0.278
+2025-04-09 14:15:17,393 | 🪜 Steps taken: 198
+2025-04-09 14:15:17,393 | 🎯 Episode total reward: -62.04
+2025-04-09 14:15:41,624 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:16:19,476 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:16:22,270 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:16:22,638 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:16:47,944 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:16:48,893 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:16:49,253 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:16:52,246 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:16:52,563 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:17:02,723 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:17:12,223 | 
+🏁 Target reached at epoch 35!
+2025-04-09 14:17:12,223 | 📍 Final position: x=-0.462, y=0.268
+2025-04-09 14:17:12,223 | 🪜 Steps taken: 155
+2025-04-09 14:17:12,223 | 🎯 Episode total reward: 138.67
+2025-04-09 14:18:28,844 | 
+🏁 Target reached at epoch 36!
+2025-04-09 14:18:28,854 | 📍 Final position: x=-0.513, y=0.258
+2025-04-09 14:18:28,854 | 🪜 Steps taken: 124
+2025-04-09 14:18:28,854 | 🎯 Episode total reward: 387.54
+2025-04-09 14:19:06,931 | 
+🏁 Target reached at epoch 37!
+2025-04-09 14:19:06,931 | 📍 Final position: x=-0.455, y=0.294
+2025-04-09 14:19:06,933 | 🪜 Steps taken: 71
+2025-04-09 14:19:06,933 | 🎯 Episode total reward: 649.24
+2025-04-09 14:19:51,050 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:19:52,457 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:19:59,264 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:20:06,343 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:21:47,894 | 
+🏁 Target reached at epoch 38!
+2025-04-09 14:21:47,894 | 📍 Final position: x=-0.470, y=0.288
+2025-04-09 14:21:47,906 | 🪜 Steps taken: 251
+2025-04-09 14:21:47,907 | 🎯 Episode total reward: -15.71
+2025-04-09 14:23:31,933 | 
+🏁 Target reached at epoch 39!
+2025-04-09 14:23:31,938 | 📍 Final position: x=-0.485, y=0.295
+2025-04-09 14:23:31,938 | 🪜 Steps taken: 195
+2025-04-09 14:23:31,938 | 🎯 Episode total reward: 38.63
+2025-04-09 14:23:57,243 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:23:57,771 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:24:07,539 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:24:09,084 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:24:09,269 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:24:09,802 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:24:11,347 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:24:48,804 | 
+🏁 Target reached at epoch 40!
+2025-04-09 14:24:48,804 | 📍 Final position: x=-0.491, y=0.282
+2025-04-09 14:24:48,804 | 🪜 Steps taken: 116
+2025-04-09 14:24:48,810 | 🎯 Episode total reward: 360.57
+2025-04-09 14:26:11,964 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:26:36,405 | 
+🏁 Target reached at epoch 41!
+2025-04-09 14:26:36,414 | 📍 Final position: x=-0.466, y=0.264
+2025-04-09 14:26:36,414 | 🪜 Steps taken: 135
+2025-04-09 14:26:36,414 | 🎯 Episode total reward: 328.16
+2025-04-09 14:27:11,378 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:27:15,164 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:27:15,424 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:27:15,877 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:28:48,789 | 
+🏁 Target reached at epoch 42!
+2025-04-09 14:28:48,789 | 📍 Final position: x=-0.503, y=0.329
+2025-04-09 14:28:48,789 | 🪜 Steps taken: 166
+2025-04-09 14:28:48,789 | 🎯 Episode total reward: 146.58
+2025-04-09 14:29:11,379 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:29:11,784 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:31:23,554 | 
+🏁 Target reached at epoch 43!
+2025-04-09 14:31:23,554 | 📍 Final position: x=-0.457, y=0.307
+2025-04-09 14:31:23,554 | 🪜 Steps taken: 207
+2025-04-09 14:31:23,560 | 🎯 Episode total reward: -4.22
+2025-04-09 14:33:11,572 | 
+🏁 Target reached at epoch 44!
+2025-04-09 14:33:11,572 | 📍 Final position: x=-0.499, y=0.277
+2025-04-09 14:33:11,575 | 🪜 Steps taken: 139
+2025-04-09 14:33:11,575 | 🎯 Episode total reward: 317.97
+2025-04-09 14:34:02,534 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:34:17,964 | 
+🏁 Target reached at epoch 45!
+2025-04-09 14:34:17,964 | 📍 Final position: x=-0.481, y=0.305
+2025-04-09 14:34:17,964 | 🪜 Steps taken: 103
+2025-04-09 14:34:17,964 | 🎯 Episode total reward: 483.80
+2025-04-09 14:34:37,184 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:35:33,249 | 
+🏁 Target reached at epoch 46!
+2025-04-09 14:35:33,249 | 📍 Final position: x=-0.507, y=0.291
+2025-04-09 14:35:33,254 | 🪜 Steps taken: 111
+2025-04-09 14:35:33,254 | 🎯 Episode total reward: 445.98
+2025-04-09 14:36:46,334 | 
+🏁 Target reached at epoch 47!
+2025-04-09 14:36:46,334 | 📍 Final position: x=-0.473, y=0.274
+2025-04-09 14:36:46,334 | 🪜 Steps taken: 107
+2025-04-09 14:36:46,334 | 🎯 Episode total reward: 473.69
+2025-04-09 14:38:22,557 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:38:39,901 | 
+🏁 Target reached at epoch 48!
+2025-04-09 14:38:39,902 | 📍 Final position: x=-0.463, y=0.319
+2025-04-09 14:38:39,902 | 🪜 Steps taken: 218
+2025-04-09 14:38:39,903 | 🎯 Episode total reward: 9.86
+2025-04-09 14:39:09,399 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:39:10,790 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:39:10,935 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:39:11,763 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:39:12,377 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:39:12,537 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:39:43,725 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:39:43,880 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:39:44,055 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:39:44,236 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:39:45,133 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:39:46,284 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:40:21,812 | 
+🏁 Target reached at epoch 49!
+2025-04-09 14:40:21,813 | 📍 Final position: x=-0.525, y=0.287
+2025-04-09 14:40:21,813 | 🪜 Steps taken: 337
+2025-04-09 14:40:21,815 | 🎯 Episode total reward: -88.74
+2025-04-09 14:41:25,302 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:41:29,254 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:42:50,258 | 
+🏁 Target reached at epoch 50!
+2025-04-09 14:42:50,258 | 📍 Final position: x=-0.466, y=0.323
+2025-04-09 14:42:50,259 | 🪜 Steps taken: 422
+2025-04-09 14:42:50,259 | 🎯 Episode total reward: 10.64
+2025-04-09 14:43:18,368 | 
+🏁 Target reached at epoch 51!
+2025-04-09 14:43:18,368 | 📍 Final position: x=-0.529, y=0.261
+2025-04-09 14:43:18,369 | 🪜 Steps taken: 84
+2025-04-09 14:43:18,370 | 🎯 Episode total reward: 593.52
+2025-04-09 14:43:22,284 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:43:47,208 | 
+🏁 Target reached at epoch 52!
+2025-04-09 14:43:47,208 | 📍 Final position: x=-0.501, y=0.252
+2025-04-09 14:43:47,209 | 🪜 Steps taken: 111
+2025-04-09 14:43:47,209 | 🎯 Episode total reward: 446.06
+2025-04-09 14:43:48,344 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:43:48,595 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:43:53,816 | 
+🏁 Target reached at epoch 53!
+2025-04-09 14:43:53,817 | 📍 Final position: x=-0.511, y=0.292
+2025-04-09 14:43:53,817 | 🪜 Steps taken: 77
+2025-04-09 14:43:53,817 | 🎯 Episode total reward: 600.89
+2025-04-09 14:43:55,616 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:43:56,883 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:43:59,084 | 
+🏁 Target reached at epoch 54!
+2025-04-09 14:43:59,084 | 📍 Final position: x=-0.542, y=0.312
+2025-04-09 14:43:59,084 | 🪜 Steps taken: 66
+2025-04-09 14:43:59,084 | 🎯 Episode total reward: 655.63
+2025-04-09 14:44:05,324 | 
+🏁 Target reached at epoch 55!
+2025-04-09 14:44:05,325 | 📍 Final position: x=-0.509, y=0.264
+2025-04-09 14:44:05,325 | 🪜 Steps taken: 78
+2025-04-09 14:44:05,325 | 🎯 Episode total reward: 616.25
+2025-04-09 14:44:08,459 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:44:08,509 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:44:08,870 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:44:09,768 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:44:16,376 | 
+🏁 Target reached at epoch 56!
+2025-04-09 14:44:16,376 | 📍 Final position: x=-0.475, y=0.289
+2025-04-09 14:44:16,376 | 🪜 Steps taken: 85
+2025-04-09 14:44:16,376 | 🎯 Episode total reward: 542.75
+2025-04-09 14:45:13,786 | 
+🏁 Target reached at epoch 57!
+2025-04-09 14:45:13,786 | 📍 Final position: x=-0.507, y=0.259
+2025-04-09 14:45:13,786 | 🪜 Steps taken: 165
+2025-04-09 14:45:13,786 | 🎯 Episode total reward: 189.32
+2025-04-09 14:45:36,478 | 
+🏁 Target reached at epoch 58!
+2025-04-09 14:45:36,479 | 📍 Final position: x=-0.465, y=0.274
+2025-04-09 14:45:36,480 | 🪜 Steps taken: 81
+2025-04-09 14:45:36,480 | 🎯 Episode total reward: 601.06
+2025-04-09 14:45:43,538 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:45:43,745 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:45:44,141 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:45:44,318 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:45:45,284 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:45:45,375 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:45:45,853 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:45:46,809 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:45:48,466 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:45:48,618 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:46:29,224 | 
+🏁 Target reached at epoch 59!
+2025-04-09 14:46:29,225 | 📍 Final position: x=-0.528, y=0.284
+2025-04-09 14:46:29,226 | 🪜 Steps taken: 181
+2025-04-09 14:46:29,227 | 🎯 Episode total reward: 12.43
+2025-04-09 14:46:58,300 | 
+🏁 Target reached at epoch 60!
+2025-04-09 14:46:58,301 | 📍 Final position: x=-0.486, y=0.320
+2025-04-09 14:46:58,301 | 🪜 Steps taken: 107
+2025-04-09 14:46:58,302 | 🎯 Episode total reward: 474.31
+2025-04-09 14:47:24,462 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:47:24,616 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:47:24,816 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:47:46,710 | 
+🏁 Target reached at epoch 61!
+2025-04-09 14:47:46,711 | 📍 Final position: x=-0.505, y=0.271
+2025-04-09 14:47:46,711 | 🪜 Steps taken: 164
+2025-04-09 14:47:46,712 | 🎯 Episode total reward: 164.44
+2025-04-09 14:48:10,135 | 
+🏁 Target reached at epoch 62!
+2025-04-09 14:48:10,135 | 📍 Final position: x=-0.496, y=0.309
+2025-04-09 14:48:10,136 | 🪜 Steps taken: 79
+2025-04-09 14:48:10,138 | 🎯 Episode total reward: 610.55
+2025-04-09 14:48:40,018 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:48:51,655 | 
+🏁 Target reached at epoch 63!
+2025-04-09 14:48:51,655 | 📍 Final position: x=-0.485, y=0.274
+2025-04-09 14:48:51,655 | 🪜 Steps taken: 145
+2025-04-09 14:48:51,655 | 🎯 Episode total reward: 278.37
+2025-04-09 14:49:21,935 | 
+🏁 Target reached at epoch 64!
+2025-04-09 14:49:21,935 | 📍 Final position: x=-0.535, y=0.265
+2025-04-09 14:49:21,935 | 🪜 Steps taken: 115
+2025-04-09 14:49:21,935 | 🎯 Episode total reward: 435.66
+2025-04-09 14:50:16,085 | 
+🏁 Target reached at epoch 65!
+2025-04-09 14:50:16,095 | 📍 Final position: x=-0.509, y=0.275
+2025-04-09 14:50:16,095 | 🪜 Steps taken: 200
+2025-04-09 14:50:16,095 | 🎯 Episode total reward: 15.77
+2025-04-09 14:50:42,134 | 
+🏁 Target reached at epoch 66!
+2025-04-09 14:50:42,135 | 📍 Final position: x=-0.517, y=0.285
+2025-04-09 14:50:42,135 | 🪜 Steps taken: 84
+2025-04-09 14:50:42,135 | 🎯 Episode total reward: 592.81
+2025-04-09 14:50:49,458 | 
+🏁 Target reached at epoch 67!
+2025-04-09 14:50:49,459 | 📍 Final position: x=-0.456, y=0.278
+2025-04-09 14:50:49,459 | 🪜 Steps taken: 28
+2025-04-09 14:50:49,460 | 🎯 Episode total reward: 863.48
+2025-04-09 14:51:23,023 | 
+🏁 Target reached at epoch 68!
+2025-04-09 14:51:23,024 | 📍 Final position: x=-0.503, y=0.270
+2025-04-09 14:51:23,024 | 🪜 Steps taken: 113
+2025-04-09 14:51:23,024 | 🎯 Episode total reward: 443.86
+2025-04-09 14:51:53,454 | 
+🏁 Target reached at epoch 69!
+2025-04-09 14:51:53,455 | 📍 Final position: x=-0.484, y=0.335
+2025-04-09 14:51:53,455 | 🪜 Steps taken: 104
+2025-04-09 14:51:53,456 | 🎯 Episode total reward: 488.34
+2025-04-09 14:52:12,412 | 
+🏁 Target reached at epoch 70!
+2025-04-09 14:52:12,413 | 📍 Final position: x=-0.493, y=0.279
+2025-04-09 14:52:12,413 | 🪜 Steps taken: 66
+2025-04-09 14:52:12,413 | 🎯 Episode total reward: 677.12
+2025-04-09 14:52:54,077 | 
+🏁 Target reached at epoch 71!
+2025-04-09 14:52:54,077 | 📍 Final position: x=-0.544, y=0.282
+2025-04-09 14:52:54,078 | 🪜 Steps taken: 143
+2025-04-09 14:52:54,079 | 🎯 Episode total reward: 300.08
+2025-04-09 14:53:19,995 | 
+🏁 Target reached at epoch 72!
+2025-04-09 14:53:19,995 | 📍 Final position: x=-0.546, y=0.281
+2025-04-09 14:53:19,996 | 🪜 Steps taken: 94
+2025-04-09 14:53:19,996 | 🎯 Episode total reward: 541.21
+2025-04-09 14:53:40,358 | 
+🏁 Target reached at epoch 73!
+2025-04-09 14:53:40,358 | 📍 Final position: x=-0.546, y=0.281
+2025-04-09 14:53:40,358 | 🪜 Steps taken: 71
+2025-04-09 14:53:40,359 | 🎯 Episode total reward: 652.05
+2025-04-09 14:54:04,913 | 
+🏁 Target reached at epoch 74!
+2025-04-09 14:54:04,913 | 📍 Final position: x=-0.485, y=0.292
+2025-04-09 14:54:04,913 | 🪜 Steps taken: 86
+2025-04-09 14:54:04,914 | 🎯 Episode total reward: 579.32
+2025-04-09 14:54:16,196 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:54:17,625 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:54:17,718 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:54:19,468 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:54:19,657 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:54:27,881 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:54:42,984 | 
+🏁 Target reached at epoch 75!
+2025-04-09 14:54:42,984 | 📍 Final position: x=-0.478, y=0.284
+2025-04-09 14:54:42,984 | 🪜 Steps taken: 126
+2025-04-09 14:54:42,984 | 🎯 Episode total reward: 321.21
+2025-04-09 14:54:49,793 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:54:55,910 | 
+🏁 Target reached at epoch 76!
+2025-04-09 14:54:55,911 | 📍 Final position: x=-0.457, y=0.303
+2025-04-09 14:54:55,911 | 🪜 Steps taken: 40
+2025-04-09 14:54:55,911 | 🎯 Episode total reward: 793.93
+2025-04-09 14:55:20,761 | 
+🏁 Target reached at epoch 77!
+2025-04-09 14:55:20,761 | 📍 Final position: x=-0.484, y=0.273
+2025-04-09 14:55:20,762 | 🪜 Steps taken: 85
+2025-04-09 14:55:20,762 | 🎯 Episode total reward: 582.01
+2025-04-09 14:55:54,739 | 
+🏁 Target reached at epoch 78!
+2025-04-09 14:55:54,740 | 📍 Final position: x=-0.516, y=0.260
+2025-04-09 14:55:54,740 | 🪜 Steps taken: 99
+2025-04-09 14:55:54,741 | 🎯 Episode total reward: 513.18
+2025-04-09 14:56:17,936 | 
+🏁 Target reached at epoch 79!
+2025-04-09 14:56:17,938 | 📍 Final position: x=-0.471, y=0.298
+2025-04-09 14:56:17,939 | 🪜 Steps taken: 83
+2025-04-09 14:56:17,939 | 🎯 Episode total reward: 593.81
+2025-04-09 14:56:32,162 | 🚧 Obstacle detected → turning left.
+2025-04-09 14:56:44,421 | 
+🏁 Target reached at epoch 80!
+2025-04-09 14:56:44,421 | 📍 Final position: x=-0.517, y=0.305
+2025-04-09 14:56:44,422 | 🪜 Steps taken: 85
+2025-04-09 14:56:44,422 | 🎯 Episode total reward: 573.14
+2025-04-09 14:57:22,327 | 
+🏁 Target reached at epoch 81!
+2025-04-09 14:57:22,328 | 📍 Final position: x=-0.499, y=0.257
+2025-04-09 14:57:22,328 | 🪜 Steps taken: 102
+2025-04-09 14:57:22,329 | 🎯 Episode total reward: 499.69
+2025-04-09 14:57:59,016 | 
+🏁 Target reached at epoch 82!
+2025-04-09 14:57:59,016 | 📍 Final position: x=-0.505, y=0.280
+2025-04-09 14:57:59,016 | 🪜 Steps taken: 73
+2025-04-09 14:57:59,016 | 🎯 Episode total reward: 641.48
+2025-04-09 14:58:27,259 | 
+🏁 Target reached at epoch 83!
+2025-04-09 14:58:27,261 | 📍 Final position: x=-0.499, y=0.260
+2025-04-09 14:58:27,261 | 🪜 Steps taken: 81
+2025-04-09 14:58:27,261 | 🎯 Episode total reward: 602.07
+2025-04-09 14:58:58,461 | 
+🏁 Target reached at epoch 84!
+2025-04-09 14:58:58,461 | 📍 Final position: x=-0.503, y=0.345
+2025-04-09 14:58:58,466 | 🪜 Steps taken: 63
+2025-04-09 14:58:58,466 | 🎯 Episode total reward: 691.79
+2025-04-09 14:59:45,252 | 
+🏁 Target reached at epoch 85!
+2025-04-09 14:59:45,253 | 📍 Final position: x=-0.520, y=0.254
+2025-04-09 14:59:45,254 | 🪜 Steps taken: 132
+2025-04-09 14:59:45,254 | 🎯 Episode total reward: 356.46
+2025-04-09 15:00:15,142 | 
+🏁 Target reached at epoch 86!
+2025-04-09 15:00:15,142 | 📍 Final position: x=-0.498, y=0.276
+2025-04-09 15:00:15,142 | 🪜 Steps taken: 123
+2025-04-09 15:00:15,143 | 🎯 Episode total reward: 396.47
+2025-04-09 15:00:34,330 | 
+🏁 Target reached at epoch 87!
+2025-04-09 15:00:34,331 | 📍 Final position: x=-0.456, y=0.294
+2025-04-09 15:00:34,331 | 🪜 Steps taken: 74
+2025-04-09 15:00:34,331 | 🎯 Episode total reward: 637.02
+2025-04-09 15:01:10,123 | 
+🏁 Target reached at epoch 88!
+2025-04-09 15:01:10,124 | 📍 Final position: x=-0.495, y=0.257
+2025-04-09 15:01:10,124 | 🪜 Steps taken: 143
+2025-04-09 15:01:10,124 | 🎯 Episode total reward: 301.82
+2025-04-09 15:01:26,952 | 
+🏁 Target reached at epoch 89!
+2025-04-09 15:01:26,952 | 📍 Final position: x=-0.520, y=0.266
+2025-04-09 15:01:26,952 | 🪜 Steps taken: 69
+2025-04-09 15:01:26,953 | 🎯 Episode total reward: 660.70
+2025-04-09 15:01:33,422 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:01:41,985 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:01:54,913 | 
+🏁 Target reached at epoch 90!
+2025-04-09 15:01:54,915 | 📍 Final position: x=-0.503, y=0.276
+2025-04-09 15:01:54,916 | 🪜 Steps taken: 110
+2025-04-09 15:01:54,916 | 🎯 Episode total reward: 438.97
+2025-04-09 15:02:32,635 | 
+🏁 Target reached at epoch 91!
+2025-04-09 15:02:32,636 | 📍 Final position: x=-0.479, y=0.273
+2025-04-09 15:02:32,636 | 🪜 Steps taken: 149
+2025-04-09 15:02:32,637 | 🎯 Episode total reward: 267.49
+2025-04-09 15:02:40,390 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:02:41,522 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:02:58,093 | 
+🏁 Target reached at epoch 92!
+2025-04-09 15:02:58,093 | 📍 Final position: x=-0.545, y=0.279
+2025-04-09 15:02:58,093 | 🪜 Steps taken: 102
+2025-04-09 15:02:58,093 | 🎯 Episode total reward: 478.12
+2025-04-09 15:03:20,658 | 
+🏁 Target reached at epoch 93!
+2025-04-09 15:03:20,658 | 📍 Final position: x=-0.530, y=0.283
+2025-04-09 15:03:20,659 | 🪜 Steps taken: 86
+2025-04-09 15:03:20,659 | 🎯 Episode total reward: 577.22
+2025-04-09 15:04:01,280 | 
+🏁 Target reached at epoch 94!
+2025-04-09 15:04:01,280 | 📍 Final position: x=-0.511, y=0.283
+2025-04-09 15:04:01,281 | 🪜 Steps taken: 129
+2025-04-09 15:04:01,281 | 🎯 Episode total reward: 364.16
+2025-04-09 15:04:44,232 | 
+🏁 Target reached at epoch 95!
+2025-04-09 15:04:44,232 | 📍 Final position: x=-0.465, y=0.269
+2025-04-09 15:04:44,233 | 🪜 Steps taken: 143
+2025-04-09 15:04:44,233 | 🎯 Episode total reward: 297.49
+2025-04-09 15:04:49,517 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:04:52,521 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:05:04,292 | 
+🏁 Target reached at epoch 96!
+2025-04-09 15:05:04,292 | 📍 Final position: x=-0.473, y=0.259
+2025-04-09 15:05:04,293 | 🪜 Steps taken: 67
+2025-04-09 15:05:04,293 | 🎯 Episode total reward: 650.70
+2025-04-09 15:05:21,255 | 
+🏁 Target reached at epoch 97!
+2025-04-09 15:05:21,256 | 📍 Final position: x=-0.539, y=0.273
+2025-04-09 15:05:21,256 | 🪜 Steps taken: 62
+2025-04-09 15:05:21,257 | 🎯 Episode total reward: 695.18
+2025-04-09 15:05:40,390 | 
+🏁 Target reached at epoch 98!
+2025-04-09 15:05:40,390 | 📍 Final position: x=-0.513, y=0.289
+2025-04-09 15:05:40,391 | 🪜 Steps taken: 66
+2025-04-09 15:05:40,391 | 🎯 Episode total reward: 677.41
+2025-04-09 15:05:51,687 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:05:53,935 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:06:05,081 | 
+🏁 Target reached at epoch 99!
+2025-04-09 15:06:05,082 | 📍 Final position: x=-0.509, y=0.297
+2025-04-09 15:06:05,082 | 🪜 Steps taken: 100
+2025-04-09 15:06:05,082 | 🎯 Episode total reward: 488.92
+2025-04-09 15:06:32,182 | 
+🏁 Target reached at epoch 100!
+2025-04-09 15:06:32,183 | 📍 Final position: x=-0.513, y=0.295
+2025-04-09 15:06:32,183 | 🪜 Steps taken: 105
+2025-04-09 15:06:32,183 | 🎯 Episode total reward: 482.65
+2025-04-09 15:06:43,194 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:06:58,092 | 
+🏁 Target reached at epoch 101!
+2025-04-09 15:06:58,093 | 📍 Final position: x=-0.541, y=0.287
+2025-04-09 15:06:58,094 | 🪜 Steps taken: 85
+2025-04-09 15:06:58,095 | 🎯 Episode total reward: 570.94
+2025-04-09 15:07:47,797 | 
+🏁 Target reached at epoch 102!
+2025-04-09 15:07:47,797 | 📍 Final position: x=-0.532, y=0.300
+2025-04-09 15:07:47,797 | 🪜 Steps taken: 133
+2025-04-09 15:07:47,798 | 🎯 Episode total reward: 342.80
+2025-04-09 15:08:16,562 | 
+🏁 Target reached at epoch 103!
+2025-04-09 15:08:16,562 | 📍 Final position: x=-0.512, y=0.273
+2025-04-09 15:08:16,562 | 🪜 Steps taken: 81
+2025-04-09 15:08:16,563 | 🎯 Episode total reward: 602.69
+2025-04-09 15:09:03,100 | 
+🏁 Target reached at epoch 104!
+2025-04-09 15:09:03,101 | 📍 Final position: x=-0.511, y=0.282
+2025-04-09 15:09:03,101 | 🪜 Steps taken: 119
+2025-04-09 15:09:03,101 | 🎯 Episode total reward: 415.63
+2025-04-09 15:09:52,601 | 
+🏁 Target reached at epoch 105!
+2025-04-09 15:09:52,601 | 📍 Final position: x=-0.503, y=0.349
+2025-04-09 15:09:52,602 | 🪜 Steps taken: 137
+2025-04-09 15:09:52,602 | 🎯 Episode total reward: 325.96
+2025-04-09 15:10:20,887 | 
+🏁 Target reached at epoch 106!
+2025-04-09 15:10:20,887 | 📍 Final position: x=-0.526, y=0.267
+2025-04-09 15:10:20,888 | 🪜 Steps taken: 96
+2025-04-09 15:10:20,888 | 🎯 Episode total reward: 526.09
+2025-04-09 15:11:36,167 | 
+🏁 Target reached at epoch 107!
+2025-04-09 15:11:36,167 | 📍 Final position: x=-0.486, y=0.316
+2025-04-09 15:11:36,168 | 🪜 Steps taken: 245
+2025-04-09 15:11:36,169 | 🎯 Episode total reward: 18.82
+2025-04-09 15:12:15,004 | 
+🏁 Target reached at epoch 108!
+2025-04-09 15:12:15,005 | 📍 Final position: x=-0.502, y=0.251
+2025-04-09 15:12:15,005 | 🪜 Steps taken: 157
+2025-04-09 15:12:15,005 | 🎯 Episode total reward: 227.50
+2025-04-09 15:12:41,097 | 
+🏁 Target reached at epoch 109!
+2025-04-09 15:12:41,098 | 📍 Final position: x=-0.494, y=0.333
+2025-04-09 15:12:41,099 | 🪜 Steps taken: 103
+2025-04-09 15:12:41,099 | 🎯 Episode total reward: 492.55
+2025-04-09 15:12:46,938 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:12:47,625 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:12:47,778 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:13:01,951 | 
+🏁 Target reached at epoch 110!
+2025-04-09 15:13:01,952 | 📍 Final position: x=-0.532, y=0.274
+2025-04-09 15:13:01,954 | 🪜 Steps taken: 85
+2025-04-09 15:13:01,954 | 🎯 Episode total reward: 549.12
+2025-04-09 15:13:39,119 | 
+🏁 Target reached at epoch 111!
+2025-04-09 15:13:39,120 | 📍 Final position: x=-0.502, y=0.332
+2025-04-09 15:13:39,121 | 🪜 Steps taken: 150
+2025-04-09 15:13:39,121 | 🎯 Episode total reward: 260.14
+2025-04-09 15:14:12,097 | 
+🏁 Target reached at epoch 112!
+2025-04-09 15:14:12,097 | 📍 Final position: x=-0.508, y=0.300
+2025-04-09 15:14:12,097 | 🪜 Steps taken: 131
+2025-04-09 15:14:12,097 | 🎯 Episode total reward: 355.12
+2025-04-09 15:14:39,520 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:14:42,169 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:14:42,354 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:14:42,816 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:14:59,774 | 
+🏁 Target reached at epoch 113!
+2025-04-09 15:14:59,774 | 📍 Final position: x=-0.519, y=0.256
+2025-04-09 15:14:59,774 | 🪜 Steps taken: 185
+2025-04-09 15:14:59,775 | 🎯 Episode total reward: 49.32
+2025-04-09 15:15:39,326 | 
+🏁 Target reached at epoch 114!
+2025-04-09 15:15:39,327 | 📍 Final position: x=-0.500, y=0.288
+2025-04-09 15:15:39,328 | 🪜 Steps taken: 147
+2025-04-09 15:15:39,328 | 🎯 Episode total reward: 271.70
+2025-04-09 15:16:16,359 | 
+🏁 Target reached at epoch 115!
+2025-04-09 15:16:16,359 | 📍 Final position: x=-0.494, y=0.349
+2025-04-09 15:16:16,359 | 🪜 Steps taken: 129
+2025-04-09 15:16:16,359 | 🎯 Episode total reward: 363.72
+2025-04-09 15:16:36,114 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:16:37,593 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:16:48,361 | 
+🏁 Target reached at epoch 116!
+2025-04-09 15:16:48,362 | 📍 Final position: x=-0.479, y=0.269
+2025-04-09 15:16:48,363 | 🪜 Steps taken: 119
+2025-04-09 15:16:48,364 | 🎯 Episode total reward: 392.82
+2025-04-09 15:17:31,143 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:17:31,302 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:17:32,385 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:17:33,124 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:17:33,336 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:17:49,289 | 
+🏁 Target reached at epoch 117!
+2025-04-09 15:17:49,290 | 📍 Final position: x=-0.509, y=0.319
+2025-04-09 15:17:49,290 | 🪜 Steps taken: 207
+2025-04-09 15:17:49,291 | 🎯 Episode total reward: -39.71
+2025-04-09 15:18:20,019 | 
+🏁 Target reached at epoch 118!
+2025-04-09 15:18:20,020 | 📍 Final position: x=-0.542, y=0.274
+2025-04-09 15:18:20,021 | 🪜 Steps taken: 104
+2025-04-09 15:18:20,023 | 🎯 Episode total reward: 485.48
+2025-04-09 15:18:55,150 | 
+🏁 Target reached at epoch 119!
+2025-04-09 15:18:55,150 | 📍 Final position: x=-0.503, y=0.264
+2025-04-09 15:18:55,151 | 🪜 Steps taken: 124
+2025-04-09 15:18:55,152 | 🎯 Episode total reward: 388.90
+2025-04-09 15:18:59,948 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:19:00,060 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:19:09,034 | 
+🏁 Target reached at epoch 120!
+2025-04-09 15:19:09,035 | 📍 Final position: x=-0.484, y=0.269
+2025-04-09 15:19:09,036 | 🪜 Steps taken: 55
+2025-04-09 15:19:09,037 | 🎯 Episode total reward: 708.77
+2025-04-09 15:19:19,833 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:19:20,021 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:19:21,014 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:19:21,400 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:19:21,552 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:19:22,972 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:19:23,145 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:19:47,677 | 
+🏁 Target reached at epoch 121!
+2025-04-09 15:19:47,679 | 📍 Final position: x=-0.535, y=0.290
+2025-04-09 15:19:47,679 | 🪜 Steps taken: 155
+2025-04-09 15:19:47,679 | 🎯 Episode total reward: 164.99
+2025-04-09 15:20:34,821 | 
+🏁 Target reached at epoch 122!
+2025-04-09 15:20:34,822 | 📍 Final position: x=-0.507, y=0.265
+2025-04-09 15:20:34,822 | 🪜 Steps taken: 178
+2025-04-09 15:20:34,824 | 🎯 Episode total reward: 122.50
+2025-04-09 15:20:45,912 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:20:46,338 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:21:01,205 | 
+🏁 Target reached at epoch 123!
+2025-04-09 15:21:01,206 | 📍 Final position: x=-0.480, y=0.300
+2025-04-09 15:21:01,206 | 🪜 Steps taken: 92
+2025-04-09 15:21:01,206 | 🎯 Episode total reward: 525.54
+2025-04-09 15:21:45,003 | 
+🏁 Target reached at epoch 124!
+2025-04-09 15:21:45,003 | 📍 Final position: x=-0.538, y=0.304
+2025-04-09 15:21:45,003 | 🪜 Steps taken: 157
+2025-04-09 15:21:45,003 | 🎯 Episode total reward: 226.62
+2025-04-09 15:22:57,417 | 
+🏁 Target reached at epoch 125!
+2025-04-09 15:22:57,418 | 📍 Final position: x=-0.512, y=0.340
+2025-04-09 15:22:57,419 | 🪜 Steps taken: 206
+2025-04-09 15:22:57,419 | 🎯 Episode total reward: 12.88
+2025-04-09 15:23:41,913 | 
+🏁 Target reached at epoch 126!
+2025-04-09 15:23:41,913 | 📍 Final position: x=-0.512, y=0.254
+2025-04-09 15:23:41,913 | 🪜 Steps taken: 160
+2025-04-09 15:23:41,914 | 🎯 Episode total reward: 213.14
+2025-04-09 15:23:52,665 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:23:56,159 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:23:56,542 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:23:56,644 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:24:13,877 | 
+🏁 Target reached at epoch 127!
+2025-04-09 15:24:13,878 | 📍 Final position: x=-0.473, y=0.271
+2025-04-09 15:24:13,878 | 🪜 Steps taken: 121
+2025-04-09 15:24:13,878 | 🎯 Episode total reward: 363.39
+2025-04-09 15:24:19,938 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:24:51,798 | 
+🏁 Target reached at epoch 128!
+2025-04-09 15:24:51,798 | 📍 Final position: x=-0.477, y=0.270
+2025-04-09 15:24:51,798 | 🪜 Steps taken: 126
+2025-04-09 15:24:51,799 | 🎯 Episode total reward: 368.45
+2025-04-09 15:25:14,238 | 
+🏁 Target reached at epoch 129!
+2025-04-09 15:25:14,238 | 📍 Final position: x=-0.527, y=0.289
+2025-04-09 15:25:14,238 | 🪜 Steps taken: 87
+2025-04-09 15:25:14,238 | 🎯 Episode total reward: 571.33
+2025-04-09 15:25:56,672 | 
+🏁 Target reached at epoch 130!
+2025-04-09 15:25:56,673 | 📍 Final position: x=-0.465, y=0.283
+2025-04-09 15:25:56,673 | 🪜 Steps taken: 153
+2025-04-09 15:25:56,673 | 🎯 Episode total reward: 245.02
+2025-04-09 15:27:04,943 | 
+🏁 Target reached at epoch 131!
+2025-04-09 15:27:04,943 | 📍 Final position: x=-0.511, y=0.260
+2025-04-09 15:27:04,943 | 🪜 Steps taken: 250
+2025-04-09 15:27:04,944 | 🎯 Episode total reward: 18.03
+2025-04-09 15:28:04,605 | 
+🏁 Target reached at epoch 132!
+2025-04-09 15:28:04,606 | 📍 Final position: x=-0.535, y=0.334
+2025-04-09 15:28:04,607 | 🪜 Steps taken: 201
+2025-04-09 15:28:04,608 | 🎯 Episode total reward: 14.87
+2025-04-09 15:28:44,622 | 
+🏁 Target reached at epoch 133!
+2025-04-09 15:28:44,622 | 📍 Final position: x=-0.474, y=0.283
+2025-04-09 15:28:44,623 | 🪜 Steps taken: 149
+2025-04-09 15:28:44,625 | 🎯 Episode total reward: 264.19
+2025-04-09 15:29:15,262 | 
+🏁 Target reached at epoch 134!
+2025-04-09 15:29:15,262 | 📍 Final position: x=-0.487, y=0.256
+2025-04-09 15:29:15,263 | 🪜 Steps taken: 118
+2025-04-09 15:29:15,263 | 🎯 Episode total reward: 419.41
+2025-04-09 15:29:50,103 | 
+🏁 Target reached at epoch 135!
+2025-04-09 15:29:50,103 | 📍 Final position: x=-0.538, y=0.312
+2025-04-09 15:29:50,103 | 🪜 Steps taken: 131
+2025-04-09 15:29:50,104 | 🎯 Episode total reward: 354.19
+2025-04-09 15:29:56,201 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:29:58,347 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:29:58,523 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:29:59,359 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:30:30,731 | 
+🏁 Target reached at epoch 136!
+2025-04-09 15:30:30,732 | 📍 Final position: x=-0.502, y=0.263
+2025-04-09 15:30:30,732 | 🪜 Steps taken: 137
+2025-04-09 15:30:30,732 | 🎯 Episode total reward: 283.39
+2025-04-09 15:30:41,824 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:30:42,478 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:30:42,522 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:30:46,703 | 
+🏁 Target reached at epoch 137!
+2025-04-09 15:30:46,703 | 📍 Final position: x=-0.490, y=0.252
+2025-04-09 15:30:46,703 | 🪜 Steps taken: 120
+2025-04-09 15:30:46,703 | 🎯 Episode total reward: 378.82
+2025-04-09 15:31:03,565 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:03,608 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:05,917 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:08,128 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:08,167 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:08,217 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:08,409 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:14,795 | 
+🏁 Target reached at epoch 138!
+2025-04-09 15:31:14,795 | 📍 Final position: x=-0.493, y=0.251
+2025-04-09 15:31:14,796 | 🪜 Steps taken: 381
+2025-04-09 15:31:14,796 | 🎯 Episode total reward: -43.31
+2025-04-09 15:31:27,565 | 
+🏁 Target reached at epoch 139!
+2025-04-09 15:31:27,565 | 📍 Final position: x=-0.486, y=0.265
+2025-04-09 15:31:27,566 | 🪜 Steps taken: 192
+2025-04-09 15:31:27,566 | 🎯 Episode total reward: 55.37
+2025-04-09 15:31:39,846 | 
+🏁 Target reached at epoch 140!
+2025-04-09 15:31:39,847 | 📍 Final position: x=-0.496, y=0.255
+2025-04-09 15:31:39,847 | 🪜 Steps taken: 183
+2025-04-09 15:31:39,847 | 🎯 Episode total reward: 94.68
+2025-04-09 15:31:50,127 | 
+🏁 Target reached at epoch 141!
+2025-04-09 15:31:50,127 | 📍 Final position: x=-0.504, y=0.304
+2025-04-09 15:31:50,128 | 🪜 Steps taken: 156
+2025-04-09 15:31:50,128 | 🎯 Episode total reward: 231.86
+2025-04-09 15:31:53,648 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:53,806 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:53,843 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:53,930 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:53,952 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:31:59,212 | 
+🏁 Target reached at epoch 142!
+2025-04-09 15:31:59,212 | 📍 Final position: x=-0.474, y=0.300
+2025-04-09 15:31:59,212 | 🪜 Steps taken: 146
+2025-04-09 15:31:59,212 | 🎯 Episode total reward: 228.88
+2025-04-09 15:32:08,195 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:32:22,252 | 
+🏁 Target reached at epoch 143!
+2025-04-09 15:32:22,252 | 📍 Final position: x=-0.475, y=0.258
+2025-04-09 15:32:22,253 | 🪜 Steps taken: 121
+2025-04-09 15:32:22,254 | 🎯 Episode total reward: 394.70
+2025-04-09 15:32:44,073 | 
+🏁 Target reached at epoch 144!
+2025-04-09 15:32:44,073 | 📍 Final position: x=-0.504, y=0.276
+2025-04-09 15:32:44,074 | 🪜 Steps taken: 99
+2025-04-09 15:32:44,074 | 🎯 Episode total reward: 512.90
+2025-04-09 15:33:12,214 | 
+🏁 Target reached at epoch 145!
+2025-04-09 15:33:12,214 | 📍 Final position: x=-0.523, y=0.271
+2025-04-09 15:33:12,215 | 🪜 Steps taken: 125
+2025-04-09 15:33:12,216 | 🎯 Episode total reward: 386.45
+2025-04-09 15:33:18,226 | 
+🏁 Target reached at epoch 146!
+2025-04-09 15:33:18,226 | 📍 Final position: x=-0.539, y=0.314
+2025-04-09 15:33:18,226 | 🪜 Steps taken: 17
+2025-04-09 15:33:18,226 | 🎯 Episode total reward: 907.49
+2025-04-09 13:45:06,508 | ✅ New best path saved with length 17!
+2025-04-09 15:33:24,060 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:34:02,921 | 
+🏁 Target reached at epoch 147!
+2025-04-09 15:34:02,921 | 📍 Final position: x=-0.484, y=0.266
+2025-04-09 15:34:02,921 | 🪜 Steps taken: 195
+2025-04-09 15:34:02,922 | 🎯 Episode total reward: -0.50
+2025-04-09 15:34:18,045 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:34:28,599 | 
+🏁 Target reached at epoch 148!
+2025-04-09 15:34:28,600 | 📍 Final position: x=-0.529, y=0.278
+2025-04-09 15:34:28,601 | 🪜 Steps taken: 110
+2025-04-09 15:34:28,601 | 🎯 Episode total reward: 449.59
+2025-04-09 15:34:34,429 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:34:36,147 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:35:03,607 | 
+🏁 Target reached at epoch 149!
+2025-04-09 15:35:03,607 | 📍 Final position: x=-0.511, y=0.270
+2025-04-09 15:35:03,607 | 🪜 Steps taken: 144
+2025-04-09 15:35:03,608 | 🎯 Episode total reward: 273.73
+2025-04-09 15:35:31,700 | 
+🏁 Target reached at epoch 150!
+2025-04-09 15:35:31,701 | 📍 Final position: x=-0.478, y=0.304
+2025-04-09 15:35:31,701 | 🪜 Steps taken: 120
+2025-04-09 15:35:31,701 | 🎯 Episode total reward: 409.16
+2025-04-09 15:35:50,302 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:36:12,251 | 
+🏁 Target reached at epoch 151!
+2025-04-09 15:36:12,251 | 📍 Final position: x=-0.540, y=0.295
+2025-04-09 15:36:12,252 | 🪜 Steps taken: 174
+2025-04-09 15:36:12,252 | 🎯 Episode total reward: 129.92
+2025-04-09 15:36:29,328 | 🚧 Obstacle detected → turning left.
+2025-04-09 15:36:44,702 | 
+🏁 Target reached at epoch 152!
+2025-04-09 15:36:44,704 | 📍 Final position: x=-0.492, y=0.273
+2025-04-09 15:36:44,704 | 🪜 Steps taken: 120
+2025-04-09 15:36:44,704 | 🎯 Episode total reward: 397.60
