@@ -75,7 +75,7 @@ q_table.json
 ## 👩‍💻 Developers Information
 
 Developed by **[Sheema Firdous](https://www.linkedin.com/in/sheema-firdous-67b9b8181/)**  
-as part of the **Cognitive Systems and Robotics** module assessment  at **Sheffield Hallam University**
+as part of the **Cognitive Systems and Robotics** module assessment  at **[Sheffield Hallam University](https://www.shu.ac.uk/)**
 
 Supervised by [Dr. Samuele Vinanzi](https://www.linkedin.com/in/samuelevinanzi/)
 
