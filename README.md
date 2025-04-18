@@ -17,7 +17,7 @@ This project uses **Q-learning** to train a Webots e-puck robot to navigate auto
 - Stores knowledge in a persistent Q-Table (`q_table.json`)
 - Recording optimal path to make E-PUCK learn the updated moves (`learned_path.json`)
 - Successful implementation of REWARD FUNCTION
-- Real-time logging of optimal moves and exception cases
+- Real-time logging and updates to Robot's memory for optimal moves and exception cases
 - Obstacle detection and avoidance by excluding states
 - Discrete state-action representation
 
