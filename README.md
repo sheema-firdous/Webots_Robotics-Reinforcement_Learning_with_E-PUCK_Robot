@@ -10,11 +10,16 @@ This project uses **Q-learning** to train a Webots e-puck robot to navigate auto
 ## 🧠 Core Features
 
 - **Q-learning** with exploration/exploitation (ε-greedy)
-- Stores knowledge in a persistent `q_table.json`
-- Records best path to target (`learned_path.json`)
-- Real-time logging of each training episode
-- Obstacle detection and avoidance logic
-- Simple discrete state-action representation
+- Implemented all three learning stages of : Sensing , Reasoning, Acting
+- Sensors: GPS, Distance sensors
+- Actuators: Left wheel motor, and Right Wheel motor
+- Reasoning: Reinforcement Learning with Q-Learning
+- Stores knowledge in a persistent Q-Table (`q_table.json`)
+- Recording optimal path to make E-PUCK learn the updated moves (`learned_path.json`)
+- Successful implementation of REWARD FUNCTION
+- Real-time logging of optimal moves and exception cases
+- Obstacle detection and avoidance by excluding states
+- Discrete state-action representation
 
 ---
 
