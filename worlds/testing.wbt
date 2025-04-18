@@ -1,0 +1,56 @@
+#VRML_SIM R2025a utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "../protos/E-puck.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2025a/projects/objects/factory/containers/protos/WoodenBox.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.4052679773818632 0.39674741381259687 0.8236196671655126 1.7844542003619914
+  position 0.03702190146843348 -2.0931997604724053 3.035235451939453
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  translation 0.00761105 0.270824 0
+  floorSize 2 2
+}
+DEF EPUCK E-puck {
+  translation 0.238064 -0.331407 -6.41177e-05
+  rotation -0.0005575578847875321 0.0003200069338745095 -0.9999997933623624 -1.576475307179586
+  controller "inference"
+  supervisor TRUE
+  groundSensorsSlot [
+    GPS {
+    }
+  ]
+}
+WoodenBox {
+  translation 0.12322 0.029195 0.15
+  size 0.4 0.1 0.3
+}
+Solid {
+  translation -0.51358 0.250762 0.011
+  rotation 0.01799119603681656 0.01380909695806859 -0.9997427797720609 0.690165
+  children [
+    Shape {
+      appearance Appearance {
+        texture ImageTexture {
+          url [
+            "Target.png"
+          ]
+        }
+      }
+      geometry Plane {
+        size 0.5 0.5
+      }
+      castShadows FALSE
+    }
+  ]
+  rotationStep 0.261785
+}
